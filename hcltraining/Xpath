@@ -1,0 +1,35 @@
+Xpath -->
+
+absolute Xpath
+/html/body/div[2]/main/section/article/div[1]/div/div/div[1]/h1
+
+
+relative Xpath 
+//html/body/div[3]/ul/li[1]/a
+
+//input[@value='Append ']
+
+
+1.if a link is an image - 
+
+"//img[@title='Tutorialspoint']"
+
+2.if more than one element having same attribute
+
+textbox1- id="user" value=user
+textbox2- id="user" value=user
+
+3. if the attribute value contains spaces
+id=" user "
+
+4.if the element need to be identified with more than one attribute value
+id=user name=username
+
+5.<ol> <ul>
+<ol><li> apple </li>
+<li> manago </li>
+<li> orange </li>
+</ol>
+css=tagname[attribute='value']
+
+

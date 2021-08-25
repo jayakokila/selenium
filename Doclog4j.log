@@ -1,0 +1,12 @@
+???2021-08--18 14:44:20??? INFO  hcltraining.Log4j???:15 - Example for info msg
+???2021-08--18 14:44:20??? WARN  hcltraining.Log4j???:16 - Example for warn msg
+???2021-08--18 14:44:20??? ERROR hcltraining.Log4j???:17 - Example for error msg
+???2021-08--18 14:44:20??? FATAL hcltraining.Log4j???:18 - Example for fatal msg
+???2021-08--18 14:45:42??? INFO  hcltraining.Log4j???:15 - Example for info msg
+???2021-08--18 14:45:42??? WARN  hcltraining.Log4j???:16 - Example for warn msg
+???2021-08--18 14:45:42??? ERROR hcltraining.Log4j???:17 - Example for error msg
+???2021-08--18 14:45:42??? FATAL hcltraining.Log4j???:18 - Example for fatal msg
+2021-08--18 14:58:44INFO  Log4j:15 - Example for info msg
+2021-08--18 14:58:44WARN  Log4j:16 - Example for warn msg
+2021-08--18 14:58:44ERROR Log4j:17 - Example for error msg
+2021-08--18 14:58:44FATAL Log4j:18 - Example for fatal msg

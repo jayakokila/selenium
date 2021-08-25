@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-24T13:10:49 IST" name="Default suite" finished-at="2021-08-24T13:12:01 IST" duration-ms="71357">
+    <groups>
+    </groups>
+    <test started-at="2021-08-24T13:10:49 IST" name="Default test" finished-at="2021-08-24T13:12:01 IST" duration-ms="71357">
+      <class name="extentreport.Report_generation">
+        <test-method is-config="true" signature="StartReport()[pri:0, instance:extentreport.Report_generation@57af006c]" started-at="2021-08-24T13:10:49 IST" name="StartReport" finished-at="2021-08-24T13:10:50 IST" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartReport -->
+        <test-method signature="CreateTest()[pri:0, instance:extentreport.Report_generation@57af006c]" started-at="2021-08-24T13:10:50 IST" name="CreateTest" finished-at="2021-08-24T13:10:50 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateTest -->
+        <test-method signature="StatusReport()[pri:0, instance:extentreport.Report_generation@57af006c]" started-at="2021-08-24T13:10:50 IST" name="StatusReport" finished-at="2021-08-24T13:10:50 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StatusReport -->
+        <test-method signature="Test()[pri:0, instance:extentreport.Report_generation@57af006c]" started-at="2021-08-24T13:10:50 IST" name="Test" finished-at="2021-08-24T13:11:59 IST" duration-ms="69685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="StopReport()[pri:0, instance:extentreport.Report_generation@57af006c]" started-at="2021-08-24T13:11:59 IST" name="StopReport" finished-at="2021-08-24T13:12:01 IST" duration-ms="1177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StopReport -->
+      </class> <!-- extentreport.Report_generation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -9,7 +9,7 @@
 </run>
 </groups>
 <classes>
-<class name="TestNGgroups">
+<class name="hcltraining.TestNGgroups">
 </class>
 </classes>
 </test>
